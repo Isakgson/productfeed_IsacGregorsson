@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Mitt productfeed</title>
+    <link>https://www.inlamning1.com</link>
+    <description>feed för inlämning</description>
+
+    <item>
+      <g:id>1001</g:id>
+      <g:title>Svart bomullsskjorta herr</g:title>
+      <g:description>Stilren och mjuk bomullsskjorta för vardag och fest</g:description>
+      <g:link>https://www.inlamning1.com/produkter/1001</g:link>
+      <g:price>599.00 SEK</g:price>
+      <g:google_product_category>Skjortor</g:google_product_category>
+      <g:brand>TestBrand</g:brand>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://sdmntprukwest.oaiusercontent.com/files/00000000-3a80-6243-b85f-d1e72fcb63ec/raw?se=2025-08-18T09%3A42%3A57Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;scid=d44b512f-c238-5c39-bfc2-2db3fe3f24ad&amp;skoid=eb780365-537d-4279-a878-cae64e33aa9c&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2025-08-18T01%3A09%3A10Z&amp;ske=2025-08-19T01%3A09%3A10Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=5XqKQ9tTAu70o924xQngaijxkmCj%2BSSIH7HQas2%2BBy0%3D</g:image_link>
+      <g:gtin>1234567890123</g:gtin>
+      <g:condition>new</g:condition>
+    </item>
+
+    <item>
+      <g:id>1002</g:id>
+      <g:title>Vita sneakers herr</g:title>
+      <g:description>Vita, bekväma sneakers för herr i läder</g:description>
+      <g:link>https://www.inlamning1.com/produkter/1002</g:link>
+      <g:price>899.00 SEK</g:price>
+      <g:google_product_category>Skor</g:google_product_category>
+      <g:brand>TestBrand</g:brand>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://sdmntpritalynorth.oaiusercontent.com/files/00000000-7338-6246-976b-30d2a31f204c/raw?se=2025-08-18T09%3A44%3A13Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;scid=7f05ad64-ed19-52fe-ab3c-fb2a216ffe39&amp;skoid=eb780365-537d-4279-a878-cae64e33aa9c&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2025-08-18T06%3A24%3A56Z&amp;ske=2025-08-19T06%3A24%3A56Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=zl1B8HvVOuGXaGBycPVm7Ak09Hvuv37Tk1efS8qq9rc%3D</g:image_link>
+      <g:gtin>2345678901234</g:gtin>
+      <g:condition>new</g:condition>
+    </item>
+
+    <item>
+      <g:id>1003</g:id>
+      <g:title>Marinblå overshirt herr</g:title>
+      <g:description>Modern overshirt i marinblå färg i hög kvalitet</g:description>
+      <g:link>https://www.inlamning1.com/produkter/1003</g:link>
+      <g:price>799.00 SEK</g:price>
+      <g:google_product_category>Overshirts</g:google_product_category>
+      <g:brand>TestBrand</g:brand>
+      <g:availability>out of stock</g:availability>
+      <g:image_link>https://sdmntprnortheu.oaiusercontent.com/files/00000000-9f0c-61f4-a4e8-35159af6449e/raw?se=2025-08-18T09%3A45%3A22Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;scid=3c5e303f-9650-5600-9ac5-01baa3dcbedf&amp;skoid=eb780365-537d-4279-a878-cae64e33aa9c&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2025-08-18T09%3A01%3A55Z&amp;ske=2025-08-19T09%3A01%3A55Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=sO0GNYPOOjpx8sQfG76wf0MRQtqMmCc5%2BcAlseF6kIk%3D</g:image_link>
+      <g:gtin>3456789012345</g:gtin>
+      <g:condition>new</g:condition>
+    </item>
+
+    <item>
+      <g:id>1004</g:id>
+      <g:title>Svarta kostymbyxor herr</g:title>
+      <g:description>Klassiska svarta kostymbyxor med klassisk passform</g:description>
+      <g:link>https://www.inlamning1.com/produkter/1004</g:link>
+      <g:price>999.00 SEK</g:price>
+      <g:google_product_category>Byxor</g:google_product_category>
+      <g:brand>TestBrand</g:brand>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-49a0-620a-acfe-8fef798cd6c8/raw?se=2025-08-18T09%3A46%3A26Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;scid=52708a48-1f46-5571-af06-341ce10fc2f1&amp;skoid=eb780365-537d-4279-a878-cae64e33aa9c&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2025-08-18T07%3A12%3A51Z&amp;ske=2025-08-19T07%3A12%3A51Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=ofBkNuOryKmZb5PQBFjlWgHX0yUqHgY%2BFrr4zfDVFUU%3D</g:image_link>
+      <g:gtin>4567890123456</g:gtin>
+      <g:condition>new</g:condition>
+    </item>
+
+    <item>
+      <g:id>1005</g:id>
+      <g:title>Vit T-shirt herr</g:title>
+      <g:description>Mjuk och bekväm t-shirt gjord av bomull</g:description>
+      <g:link>https://www.inlamning1.com/produkter/1005</g:link>
+      <g:price>289.00 SEK</g:price>
+      <g:google_product_category>T-shirts</g:google_product_category>
+      <g:brand>TestBrand</g:brand>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://sdmntprnortheu.oaiusercontent.com/files/00000000-5640-61f4-a769-97965b9e2672/raw?se=2025-08-18T10%3A42%3A52Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;scid=a59eca6b-06b4-5622-a12c-0ce006a281e0&amp;skoid=eb780365-537d-4279-a878-cae64e33aa9c&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2025-08-18T09%3A01%3A55Z&amp;ske=2025-08-19T09%3A01%3A55Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=4izOOLN3v9W7nQ0s0F2D01uMSTYdqbm%2BLtkaHIN%2BOHY%3D</g:image_link>
+      <g:gtin>5678901234567</g:gtin>
+      <g:condition>new</g:condition>
+    </item>
+
+    <item>
+       <g:id>1006</g:id>
+       <g:title>Svart T-shirt herr</g:title>
+       <g:description>Mjuk och bekväm t-shirt gjord av bomull</g:description>
+       <g:link>https://www.inlamning1.com/produkter/1006</g:link>
+       <g:price>289.00 SEK</g:price>
+       <g:google_product_category>T-shirts</g:google_product_category>
+       <g:brand>TestBrand</g:brand>
+       <g:availability>in stock</g:availability>
+       <g:image_link>https://sdmntprnortheu.oaiusercontent.com/files/00000000-88b4-61f4-a373-f395f8f46c9c/raw?se=2025-08-19T14%3A54%3A06Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;scid=039880c9-324a-5613-8aa2-ffb22766bad1&amp;skoid=0a4a0f0c-99ac-4752-9d87-cfac036fa93f&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2025-08-19T13%3A18%3A02Z&amp;ske=2025-08-20T13%3A18%3A02Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=tpyWr0dLGIZF82YvRmMfsSyqM28FNRIsYvptvzXid5s%3D</g:image_link>
+       <g:gtin>6789012345678</g:gtin>
+       <g:condition>new</g:condition>
+    </item>
+
+  </channel>
+</rss>
