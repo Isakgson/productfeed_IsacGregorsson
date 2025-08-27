@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Mitt productfeed</title>
+    <link>https://www.inlamning1.com</link>
+    <description>feed för inlämning</description>
+
+    <item>
+      <g:id>1001</g:id>
+      <g:title>Svart bomullsskjorta herr</g:title>
+      <g:description>Stilren och mjuk bomullsskjorta för vardag och fest</g:description>
+      <g:link>https://www.inlamning1.com/produkter/1001</g:link>
+      <g:price>599.00 SEK</g:price>
+      <g:google_product_category>Skjortor</g:google_product_category>
+      <g:brand>TestBrand</g:brand>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://raw.githubusercontent.com/Isakgson/productfeed_IsacGregorsson/refs/heads/main/produkt1.png</g:image_link>
+      <g:gtin>1234567890123</g:gtin>
+      <g:condition>new</g:condition>
+    </item>
+
+    <item>
+      <g:id>1002</g:id>
+      <g:title>Vita sneakers herr</g:title>
+      <g:description>Vita, bekväma sneakers för herr i läder</g:description>
+      <g:link>https://www.inlamning1.com/produkter/1002</g:link>
+      <g:price>899.00 SEK</g:price>
+      <g:google_product_category>Skor</g:google_product_category>
+      <g:brand>TestBrand</g:brand>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://raw.githubusercontent.com/Isakgson/productfeed_IsacGregorsson/refs/heads/main/produkt2.png</g:image_link>
+      <g:gtin>2345678901234</g:gtin>
+      <g:condition>new</g:condition>
+    </item>
+
+    <item>
+      <g:id>1003</g:id>
+      <g:title>Marinblå overshirt herr</g:title>
+      <g:description>Modern overshirt i marinblå färg i hög kvalitet</g:description>
+      <g:link>https://www.inlamning1.com/produkter/1003</g:link>
+      <g:price>799.00 SEK</g:price>
+      <g:google_product_category>Overshirts</g:google_product_category>
+      <g:brand>TestBrand</g:brand>
+      <g:availability>out of stock</g:availability>
+      <g:image_link>https://raw.githubusercontent.com/Isakgson/productfeed_IsacGregorsson/refs/heads/main/produkt3.png</g:image_link>
+      <g:gtin>3456789012345</g:gtin>
+      <g:condition>new</g:condition>
+    </item>
+
+    <item>
+      <g:id>1004</g:id>
+      <g:title>Svarta kostymbyxor herr</g:title>
+      <g:description>Klassiska svarta kostymbyxor med klassisk passform</g:description>
+      <g:link>https://www.inlamning1.com/produkter/1004</g:link>
+      <g:price>999.00 SEK</g:price>
+      <g:google_product_category>Byxor</g:google_product_category>
+      <g:brand>TestBrand</g:brand>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://raw.githubusercontent.com/Isakgson/productfeed_IsacGregorsson/refs/heads/main/produkt4.png</g:image_link>
+      <g:gtin>4567890123456</g:gtin>
+      <g:condition>new</g:condition>
+    </item>
+
+    <item>
+      <g:id>1005</g:id>
+      <g:title>Marinblå T-shirt herr</g:title>
+      <g:description>Mjuk och bekväm t-shirt gjord av bomull</g:description>
+      <g:link>https://www.inlamning1.com/produkter/1005</g:link>
+      <g:price>289.00 SEK</g:price>
+      <g:google_product_category>T-shirts</g:google_product_category>
+      <g:brand>TestBrand</g:brand>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://raw.githubusercontent.com/Isakgson/productfeed_IsacGregorsson/refs/heads/main/produkt5.png</g:image_link>
+      <g:gtin>5678901234567</g:gtin>
+      <g:condition>new</g:condition>
+    </item>
+
+    <item>
+       <g:id>1006</g:id>
+       <g:title>Svart T-shirt herr</g:title>
+       <g:description>Mjuk och bekväm t-shirt gjord av bomull</g:description>
+       <g:link>https://www.inlamning1.com/produkter/1006</g:link>
+       <g:price>289.00 SEK</g:price>
+       <g:google_product_category>T-shirts</g:google_product_category>
+       <g:brand>TestBrand</g:brand>
+       <g:availability>in stock</g:availability>
+       <g:image_link>https://raw.githubusercontent.com/Isakgson/productfeed_IsacGregorsson/refs/heads/main/produkt6.png</g:image_link>
+       <g:gtin>6789012345678</g:gtin>
+       <g:condition>new</g:condition>
+    </item>
+
+  </channel>
+</rss>
